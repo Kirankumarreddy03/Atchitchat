@@ -4,7 +4,7 @@
 title = My Application
 
 # (str) Package name
-package.name = chitchat
+package.name = chitchatt
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
