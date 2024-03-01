@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import smtplib
 from email.mime.text import MIMEText
-
+import kivy
 
 class LoginSignupApp:
     def __init__(self, root):
